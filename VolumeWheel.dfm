@@ -19,7 +19,7 @@ object VolumeWheelFrm: TVolumeWheelFrm
   PixelsPerInch = 96
   TextHeight = 15
   object TrayIcon1: TTrayIcon
-    Hint = 'Control volume by scrolling on the taskbar'
+    Hint = 'Control the volume by scrolling the wheel over the taskbar'
     BalloonHint = 'Control volume with mouse'
     Icons = ImageList1
     PopupMenu = PopupMenu1
